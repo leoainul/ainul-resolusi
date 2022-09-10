@@ -2,3 +2,4 @@ Ainul resolusi
 - Saya ingin bisa ngoding dan belajar konsisten
 - Saya ingin membuat pangkalan data Asrama dengan nama PEDAMA
 - Berusaha istiqomah sehari ngoding
+- Menginstall node js dan laragon
